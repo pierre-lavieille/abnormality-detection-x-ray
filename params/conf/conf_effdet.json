@@ -1,0 +1,1 @@
+{"num_classes": 14, "image_size": 1024, "detection_threshold": 0.1, "batch_size": 4, "num_epochs": 15, "n_splits": 5, "k_fold": 0, "dir_best": "", "dir_last": "", "dir_submision": ""}
